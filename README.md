@@ -44,5 +44,6 @@ Work.
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/710634f2b02dd538e5aaf212ce1ad01d861922b2911017282dff7d7666c63c70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6174657269616c5f55492d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174657269616c5f64657369676e"><img src="https://camo.githubusercontent.com/710634f2b02dd538e5aaf212ce1ad01d861922b2911017282dff7d7666c63c70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6174657269616c5f55492d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174657269616c5f64657369676e" alt="Material-UI" data-canonical-src="https://img.shields.io/badge/-Material_UI-282c34?style=for-the-badge&amp;logo=material_design" style="max-width:100%;"></a></p>
 
 
-
-<img src="https://drive.google.com/file/d/1fEKF2bltHZxIpfI1RMDgzobKOdJ9FXqW/preview" width="640" height="480" allow="autoplay">
+<p align='center'>
+<img src="http://drive.google.com/uc?export=view&id=1HRUKKBhBemYdvuEXgd0JUPGagY-Ay9r1" width="640" height="900" allow="autoplay">
+</p>
